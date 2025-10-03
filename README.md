@@ -1,1 +1,4 @@
-adding my codsoft tasks here.
+this repository contains three basic python projects:
+--
+--
+--
